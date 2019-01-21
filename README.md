@@ -17,7 +17,7 @@ Role :
 - Winda : Analyst / Database Desainer
 - Ridho : Dokumentator / Tester
 
-For full documentation, please download pdf file (documentation full sekolah alam.pdf) in this repository.
+For full documentation (RACI Matrix, Project Timeline, UI & Database Design, Budgeting), please download pdf file (documentation full sekolah alam.pdf) in this repository.
 
 cheers ^.^
 
