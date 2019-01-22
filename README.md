@@ -20,36 +20,28 @@ Role :
 Project Timeline
 
 Diskusi
-Start = 14-12-2018
-End = 20-12-2018
+Start = 14-12-2018 | End = 20-12-2018
 
 Analisis Kebutuhan
-Start = 14-12-2018
-End = 20-12-2018
+Start = 14-12-2018 | End = 20-12-2018
 
 Riset Pemilihan Metode SDLC
-Start = 21-12-2018
-End = 27-12-2018
+Start = 21-12-2018 | End = 27-12-2018
 
 Desain
-Start = 21-12-2018
-End = 27-12-2018
+Start = 21-12-2018 | End = 27-12-2018
 
 Implementasi
-Start = 28-12-2018
-End = 17-01-2019
+Start = 28-12-2018 | End = 17-01-2019
 
 Testing
-Start = 11-01-2019
-End = 17-01-2019
+Start = 11-01-2019 | End = 17-01-2019
 
 Pembuatan User Manual
-Start = 18-01-2019
-End = 24-01-2019
+Start = 18-01-2019 | End = 24-01-2019
 
 Evaluasi
-Start = 18-01-2019
-End = 24-01-2019
+Start = 18-01-2019 | End = 24-01-2019
 
 
 For full documentation (RACI Matrix, UI & Database Design, Budgeting), please download pdf file (documentation full sekolah alam.pdf) in this repository.
