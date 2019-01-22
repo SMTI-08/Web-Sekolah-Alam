@@ -44,7 +44,7 @@ Evaluasi
 Start = 18-01-2019 | End = 24-01-2019
 
 
-For full documentation (RACI Matrix, UI & Database Design, Budgeting), please download pdf file (documentation full sekolah alam.pdf) in this repository.
+For full documentation (RACI Matrix, UI & Database Design, Budgeting), please download pdf file (Project Documentation.pdf) in this repository.
 
 Cheers ^.^
 
